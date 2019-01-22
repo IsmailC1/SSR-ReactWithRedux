@@ -1,8 +1,10 @@
 # SSR-ReactWithRedux
 Available Scripts
-In the project directory, you can run:
+In the project directory, 
+you can run:
 
 npm run dev 
+
 Runs the app in the development mode.
 You will also need to open the port
 http://localhost:3000 to view it in the browser.
